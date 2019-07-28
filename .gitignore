@@ -1,0 +1,7 @@
+.DS_Store
+.next
+node_modules
+*.log
+/tmp
+out
+/static/blog-rss.xml
