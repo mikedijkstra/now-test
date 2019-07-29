@@ -2,7 +2,7 @@ const Index = () => (
   <>
     <div className="wrapper">
       <div className="container">
-        <h1>Hello Next.js on Now again and again</h1>
+        <h1>Hello Next.js on Now</h1>
       </div>
     </div>
     <style jsx>{`
