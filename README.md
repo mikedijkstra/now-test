@@ -1,3 +1,3 @@
-# Now Test 88
+# Now Test
 
 Example site for testing now
