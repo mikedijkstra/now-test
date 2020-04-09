@@ -2,7 +2,7 @@ const Index = () => (
   <>
     <div className="wrapper">
       <div className="container">
-        <h1>Hello World Master 4</h1>
+        <h1>Hello World 18!</h1>
       </div>
     </div>
     <style jsx>{`
