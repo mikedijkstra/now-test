@@ -3,6 +3,10 @@ const Index = () => (
     <div className="wrapper">
       <div className="container">
         <h1>Hello World 18!!</h1>
+        <img
+          src="https://www.istockphoto.com/resources/images/HomePage/Billboard/FreeImagesSupport-iStock-175245308.jpg"
+          alt="Stock Image"
+        />
       </div>
     </div>
     <style jsx>{`
