@@ -2,11 +2,7 @@ const Index = () => (
   <>
     <div className="wrapper">
       <div className="container">
-        <h1>Hello World!</h1>
-        <img
-          src="https://www.istockphoto.com/resources/images/HomePage/Billboard/FreeImagesSupport-iStock-175245308.jpg"
-          alt="Stock Image"
-        />
+        <h1>No Provider</h1>
       </div>
     </div>
     <style jsx>{`
