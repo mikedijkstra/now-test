@@ -2,7 +2,7 @@ const Index = () => (
   <>
     <div className="wrapper">
       <div className="container">
-        <h1>Hello World!</h1>
+        <h1>Hello Alpha!</h1>
         <img
           src="https://www.istockphoto.com/resources/images/HomePage/Billboard/FreeImagesSupport-iStock-175245308.jpg"
           alt="Stock Image"
